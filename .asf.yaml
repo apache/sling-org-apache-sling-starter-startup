@@ -2,6 +2,16 @@ github:
   description: "Apache Sling Starter Startup Module (deprecated)"
   homepage: "https://sling.apache.org/"
   labels:
-    - java
-    - sling
-    - deprecated
+  - "java"
+  - "sling"
+  - "deprecated"
+  autolink_jira:
+  - "SLING"
+  - "OAK"
+  - "JCR"
+  - "JCRVLT"
+  - "INFRA"
+  - "FELIX"
+  - "MNG"
+notifications:
+  jira_options: "link"
